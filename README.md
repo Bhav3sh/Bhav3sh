@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhav3sh
+- 👋 Hi, I’m @Bhavesh
 - 👀 I’m interested in Java web
 - 🌱 I’m currently learning Web development
 
